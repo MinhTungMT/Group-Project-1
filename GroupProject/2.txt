@@ -1,0 +1,10 @@
+Scenario 2
+Ro 76 86 3.01 Yellow
+Kyle 55 31 3.57 Yellow
+Janet 78 7 3.33 Red
+Bill 66 13 2.51 Red
+Greg 84 15 4.39 Red
+Addie 57 39 3.11 Blue
+Ella 71 55 3.31 Blue
+Aya 98 54 3.39 Blue
+Quess 40 69 2.15 Yellow
